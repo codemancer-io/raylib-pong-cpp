@@ -1,3 +1,4 @@
+### Credit: https://www.youtube.com/watch?v=VLJlTaFvHo4
 # raylib-pong-cpp
 
 Learn raylib to build a game

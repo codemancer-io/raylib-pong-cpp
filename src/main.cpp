@@ -127,7 +127,7 @@ int main() {
   while(WindowShouldClose() == false) {
     BeginDrawing();
 
-    // Updateing
+    // Updating
     ball.Update();
     cpu.Update(ball.y);
     player.Update();
